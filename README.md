@@ -28,7 +28,7 @@ I got much of the iterm setup from [this article](https://medium.com/@Clovis_app
 #### Setup Terminal Themes and Stuffs
 [This article](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) has a much more in depth explaination of how to set everything up, but here's a shortened version:
 
-#####Install Necessary Tools
+##### Install Necessary Tools
 * Install iTerm2: `brew cask install iterm2`
 * Install zsh and zsh completions: `brew install zsh zsh-completions`
 * Install oh-my-zh: `sh -c “$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)”`
@@ -36,18 +36,18 @@ I got much of the iterm setup from [this article](https://medium.com/@Clovis_app
 * Add syntax-highlighting: `brew install zsh-syntax-highlighting`
 
 
-#####Create and Update ~/.zshrc
+##### Create and Update ~/.zshrc
 Copy and paste the contents of the `zschrm-file` in this project into `~/.zshrc`, then run `source ~/.zshrc` in the terminal 
 * Note: to update tab titles, run `title <your title name>`
 
 
-#####Other Useful Profile Settings
+##### Other Useful Profile Settings
 * Install [Meslo](https://github.com/powerline/fonts/blob/master/Meslo%20Slashed/Meslo%20LG%20M%20Regular%20for%20Powerline.ttf) font and set profile to use this
 * Update `Keys` -> `Load Presets` -> `Natural Text Editing` to get easier navigation (similar to a text editor)
 * First save the iterm themes in the iTermThemes folder in this project. More themes can also be found [here](https://iterm2colorschemes.com/).  Update themes by navigating to `Colors` -> `Color Preset` -> `Import`
 
 
-#####Setup Git Aliases
+##### Setup Git Aliases
 ```
 git config --global alias.co checkout
 git config --global alias.br branch
