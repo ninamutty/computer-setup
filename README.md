@@ -4,7 +4,7 @@ Here are some compiled resources that are useful for setting up a new computer w
 I got much of the iterm setup from [this article](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961)
 
 -----------
-#### Some Useful Programs to Install
+### Some Useful Programs to Install
 * [Chrome](https://www.google.com/chrome/?brand=WHAR&gclid=Cj0KCQiAifz-BRDjARIsAEElyGL7Xi0pddl5yDb4WHJ8X0aKemu9u4u-Lgkf6F5ulTIzwtmUzHMAfi0aAv4aEALw_wcB&gclsrc=aw.ds)
 * [Spotify](https://www.spotify.com/us/download/other/)
 * [Slack](https://slack.com/help/articles/207677868-Download-Slack-for-Mac#step-1u58-download-the-slack-app)
@@ -14,7 +14,7 @@ I got much of the iterm setup from [this article](https://medium.com/@Clovis_app
 * Create new [Github SSH Key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh)
 
 -----------
-#### VSCode Setup
+### VSCode Setup
 * Copy the contents of `vscode-settings.json` file into `settings.json` in VSCode
 * Download/Unzip Operator Mono (save in the fonts folder of this project)
 * Plugins to Install
@@ -25,7 +25,7 @@ I got much of the iterm setup from [this article](https://medium.com/@Clovis_app
     - Debugger for Chrome
 
 -----------
-#### Setup Terminal Themes and Stuffs
+### Setup Terminal Themes and Stuffs
 [This article](https://medium.com/@Clovis_app/configuration-of-a-beautiful-efficient-terminal-and-prompt-on-osx-in-7-minutes-827c29391961) has a much more in depth explaination of how to set everything up, but here's a shortened version:
 
 ##### Install Necessary Tools
