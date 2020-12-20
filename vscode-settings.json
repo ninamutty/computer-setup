@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "Material Theme Darker",
+    "editor.fontFamily": "'Operator Mono', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 14
+}
