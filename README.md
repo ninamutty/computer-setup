@@ -37,8 +37,11 @@ I got much of the iterm setup from [this article](https://medium.com/@Clovis_app
 
 
 #####Create and Update ~/.zshrc
-Copy and paste the contents of the `zschrm-file` in this project into `~/.zshrc`, then run `source ~/.zshrc` in the terminal 
-* Note: to update tab titles, run `title <your title name>`
+The following steps will configure a number of preferences (ex using terminal autocomplete) and will establish a number of aliases
+
+* Copy and paste the contents of the `zschrc-file` in this project into `~/.zshrc`
+* Copy and paste the contents of the `bash_aliases` in this project into `~/.bash_aliases`
+* Run `source ~/.zshrc` in the terminal 
 
 
 #####Other Useful Profile Settings
@@ -46,11 +49,3 @@ Copy and paste the contents of the `zschrm-file` in this project into `~/.zshrc`
 * Update `Keys` -> `Load Presets` -> `Natural Text Editing` to get easier navigation (similar to a text editor)
 * First save the iterm themes in the iTermThemes folder in this project. More themes can also be found [here](https://iterm2colorschemes.com/).  Update themes by navigating to `Colors` -> `Color Preset` -> `Import`
 
-
-#####Setup Git Aliases
-```
-git config --global alias.co checkout
-git config --global alias.br branch
-git config --global alias.ci commit
-git config --global alias.st status
-```
